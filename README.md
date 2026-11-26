@@ -5,6 +5,8 @@ Aplicação desktop desenvolvida em **Python** para automatizar a localização,
 > **🔒 Nota sobre Propriedade Intelectual e Segurança Institucional**
 > Este repositório tem caráter exclusivamente demonstrativo (portfólio técnico). Por tratar-se de uma ferramenta desenvolvida para otimizar fluxos operacionais internos e atender às diretrizes de proteção de dados sensíveis (**LGPD**), o código-fonte e os binários executáveis não são distribuídos publicamente.
 
+>Nota de Privacidade e Simulação: As capturas acima foram geradas em ambiente de simulação (AMBIENTE_TESTE_CAMPI). Tanto a planilha utilizada quanto os nomes de pacientes e arquivos PDF exibidos nos logs são meramente ilustrativos e fictícios, criados exclusivamente para a demonstração pública deste projeto. Nenhum dado real de paciente foi exposto.
+
 ---
 
 ## 🎯 Problema Resolvido
